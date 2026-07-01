@@ -1,2 +1,29 @@
-# Python-Workshop-LJU
-A collection of Python workshop programs completed during my MCA at Lok Jagruti University (LJU). The repository includes hands-on implementations of Arrays, Stacks, Queues, Circular Queues, Backtracking, and problem-solving exercises, along with classwork and homework solutions written in clean and beginner-friendly Python.
+# Python Workshop - LJU
+
+This repository contains all Python Workshop programs completed during my MCA at Lok Jagruti University (LJU).
+
+## 📚 Topics Covered
+- Python Basics
+- Arrays
+- Stacks
+- Queues
+- Circular Queue
+- Backtracking
+- Problem Solving
+
+## 📂 Classwork
+- Attendance Student (Array)
+- Undo Machine (Stack)
+- Smart Printer Queue (Queue)
+
+## 📝 Homework
+- Amazon Fulfillment Centre (Fixed Array)
+- Toll Plaza Simulation (Circular Queue)
+- GPS Navigation System (Backtracking using Two Stacks)
+
+## 💻 Language
+- Python 3
+
+## 🎓 Author
+**Mohmadhusen Khimani**  
+MCA Student, Lok Jagruti University

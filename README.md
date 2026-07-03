@@ -2,22 +2,22 @@
 
 > A comprehensive collection of **Data Structures with Python** workshop programs completed during my **Master of Computer Applications (MCA)** at **Lok Jagruti University (LJU)**.
 
-This repository is organized **day-wise** and contains classwork, homework, assignments, notes, and implementations of fundamental Data Structures and Algorithms using Python.
+This repository contains all **Classwork**, **Homework**, and **day-wise implementations** completed during the **Data Structures with Python Workshop**.
 
 ---
 
 # 🎯 About the Repository
 
-This repository documents my learning journey throughout the **Data Structures with Python Workshop**.
+This repository documents my learning journey throughout the **Data Structures with Python Workshop** at **Lok Jagruti University (LJU)**.
 
-The programs are designed to strengthen problem-solving skills by implementing data structures and algorithms using real-world scenarios.
+The workshop focused on building a strong foundation in **Data Structures**, **Algorithms**, and **Problem Solving** using **Python** through practical, real-world examples.
 
 Each workshop day contains:
 
 - 📖 Classwork Programs
 - 📝 Homework Programs
 - 📄 Day-wise Documentation
-- 💡 Problem Statements
+- 💡 Real-World Problem Statements
 - 🐍 Python Implementations
 
 ---
@@ -42,14 +42,9 @@ DS-with-Python-LJU/
 │   └── Homework/
 │
 ├── Day-03/
-├── Day-04/
-├── Day-05/
-├── Day-06/
-├── Day-07/
-│
-├── Assignments/
-├── Notes/
-└── Screenshots/
+│   ├── README.md
+│   ├── Classwork/
+│   └── Homework/
 ```
 
 ---
@@ -57,14 +52,10 @@ DS-with-Python-LJU/
 # 📅 Workshop Progress
 
 | Day | Topics | Status |
-|-----|--------|:------:|
-| Day 01 | Arrays, Stack, Queue, Circular Queue, Backtracking | ✅ Completed |
-| Day 02 | Bubble Sort, Selection Sort, Linear Search, Binary Search, Merge Sort | ✅ Completed |
-| Day 03 | Coming Soon | ⏳ |
-| Day 04 | Coming Soon | ⏳ |
-| Day 05 | Coming Soon | ⏳ |
-| Day 06 | Coming Soon | ⏳ |
-| Day 07 | Coming Soon | ⏳ |
+|------|--------|:------:|
+| Day 01 | Arrays, Stack, Queue, Circular Queue & Backtracking | ✅ Completed |
+| Day 02 | Bubble Sort, Selection Sort, Linear Search, Binary Search & Merge Sort | ✅ Completed |
+| Day 03 | Recursion, Binary Search, Backtracking & Recursive Problem Solving | ✅ Completed |
 
 ---
 
@@ -77,29 +68,39 @@ DS-with-Python-LJU/
 - Queue
 - Circular Queue
 - Priority Queue
-- Linked List *(Upcoming)*
-- Doubly Linked List *(Upcoming)*
-- Circular Linked List *(Upcoming)*
-- Tree *(Upcoming)*
-- Binary Search Tree *(Upcoming)*
-- Heap *(Upcoming)*
-- Graph *(Upcoming)*
-- Hash Table *(Upcoming)*
 
 ---
 
-## Algorithms
+## Searching Algorithms
+
+- Linear Search
+- Binary Search (Iterative)
+- Binary Search (Recursive)
+
+---
+
+## Sorting Algorithms
 
 - Bubble Sort
 - Selection Sort
-- Linear Search
-- Binary Search
 - Merge Sort
-- Quick Sort *(Upcoming)*
-- Insertion Sort *(Upcoming)*
-- Heap Sort *(Upcoming)*
-- DFS *(Upcoming)*
-- BFS *(Upcoming)*
+
+---
+
+## Recursion
+
+- Fibonacci Series
+- Binary Search using Recursion
+- Multiplication using Repeated Addition
+- Climbing Stairs Problem
+- Recursive Folder Size Calculator
+
+---
+
+## Backtracking
+
+- Lock Combination Generator
+- Permutation Generation
 
 ---
 
@@ -112,83 +113,78 @@ DS-with-Python-LJU/
 
 ---
 
-# 🎯 Learning Objectives
+# 🎯 Learning Outcomes
 
-Throughout this workshop, I aim to:
+During this workshop, I learned to:
 
-- Understand fundamental data structures.
-- Learn searching and sorting algorithms.
-- Improve logical thinking and problem-solving skills.
-- Implement real-world applications using Python.
-- Build a strong foundation for technical interviews and coding assessments.
+- Understand core Data Structures.
+- Implement Searching and Sorting Algorithms.
+- Solve problems using Recursion.
+- Apply the Backtracking technique.
+- Build logical thinking and problem-solving skills.
+- Organize Python projects using professional folder structures.
+- Write clean, readable, and well-documented Python programs.
 
 ---
 
-# 🚀 How to Use
+# 🚀 How to Run
 
-1. Clone this repository.
+Clone this repository:
 
 ```bash
 git clone https://github.com/<your-username>/DS-with-Python-LJU.git
 ```
 
-2. Open the project in Visual Studio Code.
+Navigate to the project:
 
-3. Navigate to the required workshop day.
-
-Example:
-
-```text
-Day-01/Classwork/
+```bash
+cd DS-with-Python-LJU
 ```
 
-or
+Open any workshop day:
 
 ```text
-Day-02/Homework/
+Day-01/
+Day-02/
+Day-03/
 ```
 
-4. Run the desired Python program.
+Run a Python program:
 
 ```bash
 python filename.py
+```
+
+Example:
+
+```bash
+python C1_Fibonacci.py
 ```
 
 ---
 
 # 📖 Repository Highlights
 
-✔ Beginner-Friendly Programs
-
-✔ Well-Documented Code
-
-✔ Day-wise Organization
-
-✔ Real-World Problem Statements
-
-✔ GitHub Portfolio Ready
-
-✔ MCA Workshop Programs
-
-✔ Clean Folder Structure
+- ✅ Beginner-Friendly Programs
+- ✅ Real-World Problem Statements
+- ✅ Professional Program Headers
+- ✅ Clean Folder Structure
+- ✅ Day-wise Organization
+- ✅ Well-Documented Code
+- ✅ MCA Workshop Programs
+- ✅ GitHub Portfolio Ready
 
 ---
 
-# 📈 Future Updates
+# 🏆 Workshop Summary
 
-This repository will continue to be updated with:
+- **Workshop:** Data Structures with Python
+- **Duration:** 3 Days
+- **University:** Lok Jagruti University (LJU)
+- **Course:** Master of Computer Applications (MCA)
+- **Language:** Python 3
 
-- Linked Lists
-- Trees
-- Graphs
-- Hashing
-- Recursion
-- Dynamic Programming
-- Searching Algorithms
-- Sorting Algorithms
-- Interview Problems
-- Practice Assignments
-- Workshop Notes
+This repository represents the complete work completed during the **3-Day Data Structures with Python Workshop**.
 
 ---
 
@@ -200,7 +196,7 @@ This repository will continue to be updated with:
 
 🏫 Lok Jagruti University (LJU)
 
-💻 Aspiring Software Engineer | MERN Stack Developer | AI & Data Science Enthusiast
+💻 MERN Stack Developer | AI & Machine Learning Enthusiast | Data Science Learner
 
 ---
 
@@ -214,8 +210,14 @@ Your support motivates me to continue learning and sharing more educational cont
 
 ## 📜 License
 
-This repository is created for educational purposes as part of the **Data Structures with Python Workshop** conducted during the MCA program at **Lok Jagruti University (LJU)**.
+This repository is created for educational purposes as part of the **Data Structures with Python Workshop** completed during the MCA program at **Lok Jagruti University (LJU)**.
 
 ---
+
+## 🎉 Workshop Completed
+
+**Status:** ✅ Completed
+
+Thank you for visiting this repository. I hope these implementations help you learn the fundamentals of **Data Structures with Python**.
 
 **Happy Coding! 🚀**
